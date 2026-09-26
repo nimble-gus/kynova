@@ -1,0 +1,25 @@
+/* Estructuras anidadas y alcances de bloque.
+   Cada bloque { } abre un alcance nuevo en la tabla de símbolos. */
+splice adam n;
+splice adam i = 0;
+splice eve total = 0.0;
+
+radio(n);
+
+vita (i < n) {
+    splice adam square = i * i;
+    atlas (square != 0) {
+        total = total + square / 2.0;
+    } ryan {
+        diary(i);
+    }
+    i = i + 1;
+}
+
+atlas (total == 0.0) {
+    diary(0);
+} ryan {
+    // "square" existía solo dentro del ciclo; aquí se puede volver a declarar
+    splice eve square = total * total;
+    diary(square);
+}

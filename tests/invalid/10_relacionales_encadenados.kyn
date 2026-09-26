@@ -1,0 +1,9 @@
+// ESPERADO: error sintáctico
+splice adam a = 1;
+splice adam b = 2;
+splice adam c = 3;
+atlas (a < b < c) {
+    diary(a);
+} ryan {
+    diary(c);
+}

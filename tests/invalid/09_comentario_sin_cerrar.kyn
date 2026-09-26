@@ -1,0 +1,4 @@
+// ESPERADO: comentario multilínea sin cerrar
+splice adam age = 1;
+/* este comentario nunca se cierra
+diary(age);

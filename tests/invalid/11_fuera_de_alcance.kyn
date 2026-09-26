@@ -1,0 +1,7 @@
+// ESPERADO: la variable 'temp' no ha sido declarada
+splice adam i = 0;
+vita (i < 3) {
+    splice adam temp = i * 2;
+    i = i + 1;
+}
+diary(temp);

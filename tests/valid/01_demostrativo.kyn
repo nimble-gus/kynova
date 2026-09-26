@@ -1,0 +1,19 @@
+/* Programa demostrativo de Kynova — Rapture Edition */
+splice adam age;
+splice adam laps = 1;
+splice eve average;
+
+radio(age);
+radio(average);
+
+atlas (age >= 18) {
+    diary(average + 5.0);
+} ryan {
+    diary(0);
+}
+
+// Repite tres veces
+vita (laps <= 3) {
+    diary(laps);
+    laps = laps + 1;
+}

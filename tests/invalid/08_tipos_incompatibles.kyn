@@ -1,0 +1,3 @@
+// ESPERADO: tipos incompatibles
+splice eve average = 85.50;
+splice adam age = average + 1;

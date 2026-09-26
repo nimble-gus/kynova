@@ -1,0 +1,3 @@
+// ESPERADO: ya fue declarada en este alcance
+splice adam age;
+splice eve age;

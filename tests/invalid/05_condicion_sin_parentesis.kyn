@@ -1,0 +1,5 @@
+// ESPERADO: debe ir entre paréntesis
+splice adam age = 0;
+vita age < 10 {
+    age = age + 1;
+}

@@ -1,0 +1,2 @@
+// ESPERADO: la variable 'age' no ha sido declarada
+age = 20;

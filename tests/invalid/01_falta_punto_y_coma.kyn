@@ -1,0 +1,3 @@
+// ESPERADO: ¿falta ';'
+splice adam age
+age = 20;

@@ -1,0 +1,3 @@
+// ESPERADO: todo 'atlas' debe llevar su bloque 'ryan'
+splice adam age = 20;
+atlas (age > 18) { diary(age); }
